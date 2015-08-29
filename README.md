@@ -1,3 +1,4 @@
+# Chat Room
 To run this program from within Eclipse:
 In Project Explorer, right-click on Server.java. Run As...Java Application.
 Wait several seconds for the Server to finish initializing.
