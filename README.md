@@ -5,7 +5,7 @@ Wait several seconds for the Server to finish initializing.
 In Project Explorer, right-click on Main.java.  Run As...Java Application.
 
 Simulation of multiple remote clients:
-instanatiate a new Main object for each desired client.
+instantiate a new Main object for each desired client.
 
 Database of users which have been banned/blocked by the system administrator:
 blocked_users.properties
